@@ -1,0 +1,15 @@
+.main-girls {
+  display: flex;
+  justify-content: center;
+  /* justify-content: space-between; */
+  /* height: max-content; */
+  /* justify-content: ; */
+  padding: 10px;
+}
+
+.main-girls img {
+  border: 5px solid pink;
+  padding: 10px;
+  margin: 10px;
+  /* height: 400px; */
+}
